@@ -1,0 +1,6 @@
+{
+  "name": "BIOLOGI YTTA",
+  "description": "Aplikasi Web Belajar & Gamifikasi Asesmen Tengah Semester Biologi Kelas XII dengan Mode Bahasa Bayi dan Lab Futuristik",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
